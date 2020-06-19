@@ -28,7 +28,8 @@ In practice, you can take a 10 % margin to say the sentiment is neutral (when th
 Almost 7000 words are used to describe positivity and negativity.  
 The execution time can be significantly reduced by removing words. Of course,  this will also impact the sentiment correctness.  
 Only english language is supported for now.  
-Some of the webpages will be skipped if they cannot be read.
+Some of the webpages will be skipped if they cannot be read.  
+The more specific you are in the topic the more relevant the sentiment will be.
 
 ## Version
 Currently in alpha version 0.1.  

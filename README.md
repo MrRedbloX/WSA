@@ -26,8 +26,7 @@ In practice, you can take a 10 % margin to say the sentiment is neutral (when th
 
 ## Specification
 Almost 7000 words are used to describe positivity and negativity.  
-On average, the execution time is between 1 and 2 minutes for 10 webpages.  
-This time can be significantly reduced by removing words. Of course,  this will also impact the sentiment correctness.  
+The execution time can be significantly reduced by removing words. Of course,  this will also impact the sentiment correctness.  
 Only english language is supported for now.  
 Some of the webpages will be skipped if they cannot be read.
 

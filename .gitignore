@@ -4,3 +4,10 @@
 
 #config
 *.cfg
+
+#cache
+/__pycache__/*
+/py/__pycache__/*
+
+#google cookies
+.google-cookie
